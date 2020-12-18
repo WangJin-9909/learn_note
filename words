@@ -95,6 +95,7 @@ radical		[adj]激进的、根本的、彻底的
 butcher		[n]屠夫、肉店、侩子手
 pamphlet	[n]小册子
 
+
 clap		[n]故障、拍手
 slap		[v]击掌、拍击
 
@@ -129,6 +130,12 @@ hatch		[n]笼、小屋
 rib			[n]肋骨、肋状物
 rob			[v]抢劫、掠夺、敲诈
 rot			[v]腐烂、衰败、腐败
+robber		[n]强盗、盗贼
+robbery		[n]抢劫、盗窃
+rub			[n]擦、摩擦
+rubber		[n]橡胶、橡皮、合成橡胶
+
+
 
 
 
@@ -627,6 +634,10 @@ commerce	[n]贸易、商业、商务
 conclusion	[n]结论、结局、推论
 conclude	[vt]推断、决定、作结论
 
+culivate	[v]培养、陶冶、耕作
+rear		[v]培养、抚养
+			[n]后面、屁股、后方部队
+			[adj]后方的、后面的
 breed		[v]繁殖、交配
 bread		[n]面包、生计
 			[vt]在...上面洒面包屑
@@ -657,7 +668,8 @@ unite		[v/vt]使...混合、使...联合、使...团结
 	
 credit		[n]信用、信誉、贷款、学分、信任
 predict		[v]预报、预言、预知
-prophecy	[v]语言
+prophecy	[v]预言
+prophet		[n]先知、预言者、提倡者
 precast		[v]预制的
 
 reply		[v]回答、回应、回击
@@ -674,6 +686,7 @@ honour		[n]荣誉、尊敬、勋章
 
 conceal		[v]隐藏、隐瞒
 concept		[n]观念、概念
+notion		[n]概念、见解、打算
 
 vast		[adj]广阔的、巨大的
 enormous	[adj]庞大的、巨大的、极恶的
@@ -682,7 +695,8 @@ bulk		[n]体积、容量、大多数、大部分、大块
 tremendous	[adj]极大的、巨大的、惊人的、极好的
 immense 	[adj]巨大的、广大的、无边无际的、非常好的
 huge		[adj]巨大的、庞大的、无限的
-
+gigantic	[adj]巨大的、庞大的
+stupendous	[adj]惊人的、巨大的
 
 shave		[v]剃毛、剃须
 shiver		[v]颤抖、打颤、哆嗦
@@ -690,124 +704,207 @@ shaver		[n]理发师
 barber		[n]理发师
 
 
-struct
-instruct
-instruction
-construct
-construction
-restruct
+struct		[n]结构、结构体、创建架构的数组
+structure	[n]结构、构造
+structural	[adj]结构的、建筑的
+instruct	[v]通知、指导、命令、教授
+instruction	[n]指令、命令、指示、教导
+construct	[v]建造、修建
+construction[n]建设、建筑物、解释、造句
+restruct	[v]重新构造
+
+sigh		[v]叹气、叹着气说、叹息
+sight		[n]视野、视力、景象
+pant		[v]喘气、喘息、气喘喜喜的说
+gasp		[v]喘息、喘气、渴望
+wheeze		[v]喘息、喘息的说出
+
+sector		[n]部门、扇形、扇区
+section		[n]部分、部门、截面、章节
+
+ethnical	[adj]种族的、人种的、种学的
+racial		[adj]种族的、人种的
+
+steak		[n]牛排、肉排、鱼排
+sneak		[v]偷偷他做
+
+plot		[n]情节、图表、阴谋
+intrigue	[n]阴谋、诡计、复杂的事
+
+judge		[n]法官、裁判员、鉴定人
+			[v]判断
+judgement	[n]意见、判断力、审判
+justice		[n]司发、正义、法官
+judical		[adj]裁判的
+prejudice	[n]偏见、侵害
+			[v]损害、使有偏见
+bias		[n]偏见、偏爱
+			[v]存在偏见
+cost		[n]费用、代价、成本、损失
+costly		[adj]昂贵的、代价高的
+
+conquer		[v]战胜、征服、攻克、胜利、得胜
+conquest	[n]政府、战胜、战利品
+
+occupy		[v]占据、占领、居住
+cccurrence	[n]发生、出现、事件
+occuptaion	[n]职业、占有、消遣
+
+regular		[adj]定期的、有规律的、合格的
+regulation	[n]管理、规则、校准
+regurgiate	[v]回流、反胃
+
+rub			[v]摩擦、愤怒
+rod			[n]捧、惩罚、权力
+rid			[v]使摆脱、使去掉
+ride		[v]骑
+
+powder		[n]粉末、粉、火药
+			[v]使成粉末
+power		[n]力量、能力、电力、功率
+
+adopt		[v]采取、接受、收养、正式通过
+adoptive	[adj]采用的、有收养关系的、过继的
+adoptive	[adj]适应的、合适的
+adult		[adj]成年人的、成熟的
+			[n]成年人
+adapt		[v]使适应、改编
+
+adventure	[n]冒险、冒险精神
+			[v]冒险
+venture		[n/v]敢于冒险、冒险旅行
+adventurer	[n]冒险家
+
+gym			[n]健身房、体育、体育馆
+court		[n]法院、球场、朝廷
+stadium		[n]体育场、露天大型运动场
+
+inherit		[v]继承、遗传而得
+heritage	[n]遗产、传统、继承物
+heir		[n]继承人、后裔
+
+coarse		[adj]粗糙的、粗俗的、下等的
+rude		[adj]粗鲁的、无礼的、狂暴的
+
+clerk		[n]职员、办事员、店员、书记、记账员
+clergy		[n]神职人员、牧师、僧侣
+
+cute		[adj]可爱的、漂亮的、聪明的、伶俐的
+acute		[adj]严重的、急性的、敏锐的、激烈的
+
+blod		[n]血、血液
+			[v]从...抽血
+bloody		[adj]血腥的、非常的、残忍的、嗜杀的、残忍的
+blot		[v]吸干、把墨水溅到..
+
+tray		[n]托盘、浅盘
+tram		[n]电车轨道
+			[v]乘电车
 
 
-sigh
-pant
-gasp
-wheeze
+memo		[n]备忘录
+momorandumce[n]备忘录、便笺
+
+confirm		[v]确认、证实、批准
+conform		[v]符合、遵照、适应环境
+
+elephant	[n]大象
+elegant		[adj]高雅的、优雅的、讲究的
+
+yarn		[n]纱线、故事、讲故事
+yield		[v]生产、获利、屈服、生息
+yawn		[v]打哈欠、张得很开
+
+chaos		[n]混乱、混沌
+confuse		[v]使混乱、使困惑
+
+gaol		[n]监狱、监禁
+prison		[n]监狱、拘留所
+prisoner	[n]囚犯、犯人、俘虏
+
+identify	[v]确定、鉴定、识别、辨认出
+inendity	[n]身份、同一性、一致、特性
+identical	[adj]同一的、完全相同的
+
+attract		[v]吸引、有吸引力的
+attack		[n]攻击、抨击、疾病发作
 
 
-sector
-section
+groan
+roar
+moan
 
-ethnical
-racial
+peculiar
+peculiar to 
 
-steak
-sneak
+gulf
+harbor
 
-plot
-intrigue
+ham
+hum
 
-judge
-judgement
-justice
-judical
-prejudice
-bias
+marked
+remarkable
+conspicuous
 
-
-cost
-costly
-
-conquer
-conquest
-
-concept
-notion
-
-occupy
-cccurrence
-occuptaion
-
-regular
-regulation
-regurgiate
-
-rub
-rod
-rid
-
-powder
-power
-
-adopt
-adoptive
-adult
-adapt
-
-adventure
-venture
-
-gym
-court
-stadium
-
-inherit
-heritage
-heir
-
-intergrate
-disintetgrate
-
-coarse
-rude
-
-clerk
-clergy
-
-cute
-acute
-
-blod
-blot
-
-tray
-tram
+imfirm
+feeble
+feebly
 
 
-memo
-momorandumce
+aroma
+fragrance
+fragrant
+scent
 
-confirm
-conform
+grease
+lubricate
+bribe
 
-elephant
-elegant
+recipe
+recipt 
+radiant
 
-yaen
-yield
-yawn
+combat
+fright
 
-chaos
-confuse
+despise
+contempt
+scorn
 
-gaol
-prison
 
-identify
-inendity
-identical
+temptation
+tempt
 
-attract
-attack
+rational
+radical
+
+voyage
+sail
+
+bizarre
+odd
+queer
+exotic
+
+disspate
+dismass
+
+solid
+solitary
+
+consistent
+unanimous
+
+orchestra
+orchard
+
+
+
+
+
+
+
 
 
 
