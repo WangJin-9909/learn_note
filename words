@@ -224,6 +224,7 @@ regardless	[adj]不管的、不顾的、不注意的
 
 habit 		[n]习惯、习性、嗜好
 habitant  	[n]居民、居住者
+inhabitant	[n]居民、居住者
 habitat  	[n]栖息地、产地
 inhibit		[vt]抑制、禁止
 
@@ -257,6 +258,9 @@ escape		[vt]躲避、避免、被忘掉
 gape 		[vi]裂开、张开、打哈欠
 			[n]裂口、张嘴、哈欠
 cape		[n]披风、海角
+grape		[n]葡萄
+grade		[n]等级、年纪
+
 
 tile 		[n]瓦、瓷砖
 			[vt]铺瓦片、铺瓷砖
@@ -385,6 +389,8 @@ wonder  	[v]想知道、感到疑惑、感到诧异
 wander		[vi]徘徊、漫步、迷路、离题
 			[vt]游荡
 
+whisper		[n/v]耳语、私下说、密探
+whisky		[n]威士忌
 whistle 	[n]口哨、汽笛、吹口哨、一套衣服
 siren		[n]汽笛、迷人的女人；歌声动人的女歌手
 			[adj]迷人的人
@@ -606,6 +612,7 @@ brindle		[n]斑纹、有斑纹的动物
 junior		[adj]年少的、下级的、学童地
 journey		[n]旅行、行程
 			[vt]旅行
+			
 
 
 semester	[n]学期、半年
@@ -675,6 +682,9 @@ precast		[v]预制的
 reply		[v]回答、回应、回击
 relay		[v]重放、重现、重演
 rely		[v]依靠、依赖
+rely on		依靠、信赖
+depend on	依赖、依靠、取决于
+count on	依靠
 
 demand		[n]要求、需求
 demon		[n]恶魔、魔鬼、精力充沛的人
@@ -749,6 +759,7 @@ conquest	[n]政府、战胜、战利品
 occupy		[v]占据、占领、居住
 cccurrence	[n]发生、出现、事件
 occuptaion	[n]职业、占有、消遣
+occupied	[adj]已占有的、使用中的
 
 regular		[adj]定期的、有规律的、合格的
 regulation	[n]管理、规则、校准
@@ -900,8 +911,229 @@ orchestra
 orchard
 
 
+disgrace
+disgraceful
+grace
+lace
 
 
+millstone
+landmark
+
+humorous
+harmonious
+
+symposium
+seminar
+
+sentiment 
+mood
+
+quality
+quanity
+quanify
+
+no wonder
+let alone
+
+dry
+drought
+droughty
+
+burst
+brust
+at stake
+at risk
+
+inconclusive
+in conslusion
+
+surgeon
+surgery
+physician
+
+charter
+chapter
+character
+
+in a sense 
+to some extent
+
+break into 
+burst into
+
+propose
+proposition
+
+counsel
+council
+
+wool
+cotton
+
+spectacle
+specate
+
+reception
+receipt
+
+verge
+vauge
+
+compromise
+comprise
+
+statistic 
+statistical
+
+civilizztion
+civil
+civilian
+civility
+
+apply
+application
+applicance
+
+partical
+particle
+particulate
+partial
+partiality
+favortism
+
+efficient
+efficiency
+efficacy
+efficiently
+
+present
+absence
+presence
+
+
+flame
+flare
+blame
+
+polite
+polit
+
+weird
+wicked
+
+scarce
+scarcity
+scare
+scar
+
+plenty
+plentiful
+
+resemble
+assemble
+
+progressive
+progress
+
+weed
+reed
+weep
+feed
+
+motion
+mention
+
+lib
+lid
+
+jury
+injure
+injury
+
+apparent
+appear
+manifest
+manifestation
+appeal
+
+
+hunt
+hint
+hunter
+
+hub
+cab
+canient
+cabin
+
+crafr
+draft
+
+ship
+lash
+
+coinage
+coincidence
+coincide
+
+satellite
+settle
+settlement
+
+conperation
+collaboration
+collaborate
+
+theory
+thesis
+
+germ
+term
+team
+
+affect
+effect
+infect
+
+college
+colleague
+collect
+collective
+
+proverb
+province
+motto
+
+isolate
+desolate
+
+inset
+insect
+intact
+
+spouse
+spoose
+
+bouns
+bounce
+
+frown
+wrinkle
+
+sanction
+transaction
+
+trans
+transit
+transmit
+transfer
+
+fluent
+
+image
+visualize
+visualization
 
 
 
