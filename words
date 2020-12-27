@@ -101,6 +101,9 @@ slap		[v]击掌、拍击
 
 fraud		[n]骗子、欺骗、诡计
 cheat		[vt]骗子、骗取
+deceit		[n]欺骗、蒙骗
+deceive		[v]欺骗、蒙骗
+hoax		[v]愚弄、欺骗、指恶作剧
 
 resolve		[vt]决定、溶解、使...分解
 resolute	[adj]坚决的、果断的
@@ -130,16 +133,13 @@ hatch		[n]笼、小屋
 rib			[n]肋骨、肋状物
 rob			[v]抢劫、掠夺、敲诈
 rot			[v]腐烂、衰败、腐败
+rotten		[ajd]腐烂的、堕落的、恶臭的
 robber		[n]强盗、盗贼
 robbery		[n]抢劫、盗窃
 rub			[n]擦、摩擦
 rubber		[n]橡胶、橡皮、合成橡胶
-
-
-
-
-
-
+erosion		[n]腐蚀、侵蚀
+stale		[adj]不新鲜的、陈腐的
 
 
 naked		[adj]裸体的、无装饰的、无证据的
@@ -265,6 +265,7 @@ grade		[n]等级、年纪
 tile 		[n]瓦、瓷砖
 			[vt]铺瓦片、铺瓷砖
 tilt		[vi]倾斜、翘起、俯仰
+lean		[v]倾斜、倚靠、倾向
 
 massacre  	[n]大屠杀、惨败、彻底破坏
 			[v]屠杀、彻底击败
@@ -432,6 +433,14 @@ distant  	[adj]遥远的、冷漠的、远隔的、不友好的、冷淡的
 distance 	[n]距离、远方、疏远、间隔
 distantly	[adv]远离的、遥远的
 
+
+
+wrech		[v]破坏、毁坏
+			[n]失事、残骸、遇难船只
+crash		[n]撞碎、坠毁、破产、隆隆声
+crush		[v]压碎、弄皱、变形、使...挤入、被压碎
+collide		[v]碰撞、抵触、冲突、使相撞、使相碰
+collision	[n]碰撞、冲突
 clash 		[n]冲突、不协调、碰撞声
 cash		[n]现款、现金
 			[vt]将。。。兑现；制服现款
@@ -628,6 +637,15 @@ dean		[n]学院院长、系主任、教务长
 
 liberate	[vt]解放、放出、释放
 deliberate	[adj]故意的、深思熟虑的、从容的
+liberty		[n]自由
+liberal		[adj]自由的
+liberation	[n]解放
+liberalism	[n]自由主义
+liberalise	[n]自由化
+liberator	[n]解放者
+libary		[n]图书馆
+librian		[n]图书管理员
+literate	[adj]识字的
 
 invite		[vt]邀请、招待、招致
 			[n]邀请
@@ -806,6 +824,8 @@ acute		[adj]严重的、急性的、敏锐的、激烈的
 blod		[n]血、血液
 			[v]从...抽血
 bloody		[adj]血腥的、非常的、残忍的、嗜杀的、残忍的
+bleed		[v]使放血、流血、榨干、溢出、渗出、悲痛
+flood
 blot		[v]吸干、把墨水溅到..
 
 tray		[n]托盘、浅盘
@@ -882,6 +902,7 @@ fright
 despise
 contempt
 scorn
+scout
 
 
 temptation
@@ -1000,7 +1021,7 @@ particle
 particulate
 partial
 partiality
-favortism
+
 
 efficient
 efficiency
@@ -1015,6 +1036,8 @@ presence
 flame
 flare
 blame
+fuel
+ful
 
 polite
 polit
@@ -1022,10 +1045,7 @@ polit
 weird
 wicked
 
-scarce
-scarcity
-scare
-scar
+
 
 plenty
 plentiful
@@ -1128,6 +1148,22 @@ trans
 transit
 transmit
 transfer
+transport
+transition
+translate
+transform
+transcend
+teansplant
+transaction
+transfuse
+transmission
+transfer station
+
+
+conclusion
+conslusive
+inconclusive
+
 
 fluent
 
@@ -1135,10 +1171,252 @@ image
 visualize
 visualization
 
+dicate
+dedicate
 
 
+consist
+consistent
+unanimous	
+constituent
+constitution
 
 
+universal
+universe
+university
+
+
+journey
+journal
+
+vain
+futile
+fertile
+
+
+rash
+rush
+
+violet
+violate
+
+syndrome
+symptom
+
+in trouble
+at stake
+
+
+lounge
+couch
+
+sniff
+puff
+
+scary
+scare
+scar
+scarce
+scared
+sacred
+scarcity
+
+
+tumble
+stumble
+
+revenge
+revenue
+avenue
+
+espert
+experience
+experiment
+
+by nature
+in nature
+at heart
+in essence
+
+simulate
+assimulate
+stimulate
+formulate
+accumulate
+accelerate
+formula
+formulary
+
+
+tire
+retire
+
+conscious
+consciousness
+conscience
+conscientious
+concise
+cautions
+unconscious
+subconscious
+
+sign
+signify
+significance
+significant
+signification
+significantly
+
+hug
+embrace
+hold in one's arms
+
+courage
+encourage
+discourage
+courageous
+
+suspect
+suspicion
+skepitical
+doubtful
+questionable
+
+
+rigorous
+vigorous
+
+transaction
+transient
+transfer
+
+
+racket
+rocket
+
+jaw
+chin
+chew
+forehead
+
+cereal
+grain
+ingrain
+
+pile
+pale 	
+
+bitch
+batch
+patch
+in batches
+beach
+bench
+
+benign
+benign tumor
+malignant tumor
+leniency
+lenience
+lenient
+leniently
+
+cultivate
+foster
+
+expedition
+expedite
+explore
+exploration
+excursion
+expenditure
+expansion
+expand
+
+exquisite
+requisite
+perquisite
+prerequisite
+exquisitely
+exquisiteness
+
+herd
+shepherd
+
+drastic
+drama
+
+pirate
+burglar
+thief
+
+fable
+fabulous
+fabulously
+
+favor
+favortism
+favorite
+favorable
+favorably
+
+formula
+formulate
+
+
+resume
+consume
+assume
+presume
+resemble
+assemble
+rescue
+
+ridiculous
+ridicule
+radical
+radicalism
+radically
+
+knob
+knot
+knock
+
+prestige
+fame
+reputation
+
+sevote one's heart and soul to
+engage/employ oneself in
+commit oneself to doing
+bury one's head in
+dedicate to
+be intent on
+abondon oneself to
+be bound to
+
+
+grow apart
+grow away from
+grow down
+grow in
+grow out
+grow out of
+grow up
+grow along
+grow from
+
+catch/give a glimpse of
+give sb a quick glance
+give sb a airty glance
+
+
+more than
+other than
+
+
+Noting could be future from the truth = i cann't agree with you more.
 
 
 
