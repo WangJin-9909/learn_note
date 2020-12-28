@@ -193,6 +193,7 @@ portion		[n]部分、一份、份额
 recreation	[n]消遣、娱乐、修养
 pastime		[n]娱乐、消遣
 
+curl		[v]蜷缩
 cruel		[adj]残忍的、残酷的、使人痛苦的
 cruely		[adv]残酷的、非常
 cruelty		[n]残酷、残忍的、残酷的行为
@@ -227,6 +228,10 @@ habitant  	[n]居民、居住者
 inhabitant	[n]居民、居住者
 habitat  	[n]栖息地、产地
 inhibit		[vt]抑制、禁止
+exhibit		[v]展览
+prohibit	[v]阻止
+cohibit		[v]同居
+
 
 penalty 	[n]罚款、罚金、处罚
 punish		[vt]惩罚、眼里对待
@@ -572,6 +577,8 @@ litter		[n]垃圾、轿、担架
 
 convince	[v]说服、使确信、使信服
 convention	[n]大会、惯例、约定
+conventional[adj]传统的、惯例的
+
 
 negotiate	[vt]谈判、协商、通过、越过
 
@@ -1333,6 +1340,11 @@ excursion
 expenditure
 expansion
 expand
+extent
+expend
+expansive
+expensive
+extant
 
 exquisite
 requisite
@@ -1387,33 +1399,139 @@ prestige
 fame
 reputation
 
+
+displace
+displacement
+replace
+replacment
+substite
+substitution
+
+
+preserve
+persevere
+perceive
+conserve
+reserve
+reverse
+severe
+
+exhauste
+extinguish
+quench
+
+toast
+roast
+boast
+
 sevote one's heart and soul to
 engage/employ oneself in
-commit oneself to doing
-bury one's head in
-dedicate to
-be intent on
-abondon oneself to
-be bound to
+
+compel
+expel
+repel
+impel
+dispel
+propel
+
+strike
+striking
 
 
-grow apart
-grow away from
-grow down
-grow in
-grow out
-grow out of
-grow up
-grow along
-grow from
-
-catch/give a glimpse of
-give sb a quick glance
-give sb a airty glance
 
 
-more than
-other than
+urban
+metropolis
+
+hasty
+haste
+
+authentic
+authenticate
+
+pail
+barrel
+
+indefinitely
+infinite
+definite
+indenfinite
+definitely
+
+insurance
+insure
+assure
+ensure
+
+
+shame
+sham
+
+colonel
+colonial
+colony
+
+inlet
+outlet
+entrance
+exit
+
+hip
+hop
+
+seam
+beam
+
+skin
+skinny
+emaciate
+
+handy
+handful
+handle
+convenient
+
+conclusive
+inclusive
+exclusive
+conclude
+conclusion
+
+decision
+decisive
+indecision
+indecisive
+
+lame
+cripple
+limp
+
+drown
+dawn
+brow
+draw
+brown
+drawn
+
+administer
+administration
+administrator
+administrative
+administrable
+
+abondon
+forsake
+desert
+discard
+
+jolly
+jelly
+
+
+
+
+
+
 
 
 Noting could be future from the truth = i cann't agree with you more.
