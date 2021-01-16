@@ -76,6 +76,8 @@ destiny	[n]命运
 
 clay 	[n]粘土
 mud		[n]泥、弄脏、用泥涂
+contaminate [v]污染、弄脏
+pollute 	[v]污染、玷污、败坏
 
 crawl	[vi]爬行
 crew	[n]组、队、全体人员
@@ -182,6 +184,9 @@ trash		[n]垃圾、废物
 			[vi]丢弃、修剪树枝
 tramp		[v]踩、踏、重步行走
 
+
+sham		[n]假装、骗子、赝品
+fake		[n]赝品
 shame		[vt]使丢脸、使蒙羞
 			[n]丢脸
 shy			[adj]害羞的、畏缩的、胆怯的
@@ -272,6 +277,9 @@ tile 		[n]瓦、瓷砖
 tilt		[vi]倾斜、翘起、俯仰
 lean		[v]倾斜、倚靠、倾向
 
+mass		[n]质量、一群、大量
+mess		[n]混乱、食堂、困境
+
 massacre  	[n]大屠杀、惨败、彻底破坏
 			[v]屠杀、彻底击败
 menace		[n]威胁、恐吓
@@ -311,6 +319,8 @@ mat 		[n]垫子、垫、衬边
 impart 		[vt]传授、给予、告知
 impair 		[vt]损害、削弱、减少
 import		[n]进口、导入
+impact 		[n/v]冲击力、影响力、冲击、撞击
+impose 		[v]强加、征收
 
 cure 		[n]治疗、疗法、治愈、解决
 threapy		[n]治疗、疗法
@@ -333,8 +343,8 @@ halo		[n]光环、荣光
 
 stall 		[n]货摊、小隔间
 booth		[n]货摊、公用电话亭
-stalk		[n]柄、茎、梗、阻止
-
+stalk		[n]柄、茎、梗、跟踪
+stem		[n]柄茎梗、阻止
 tolerate  	[vt]容忍、默许、宽恕
 tolerant 	[adj]宽容的、容忍的、有忍耐力的
 tolerance	[n]公差、宽容、容忍
@@ -378,7 +388,7 @@ posture		[n]姿势、态度、情形
 decent  	[adj]正派的、得体的、相当好的
 descent 	[n]下降、血统、袭击
 			[vt]出去...的气味、使...失去香味
-			
+ascend		[v]上升			
 descend		[vi]下降、下去、下来、遗传、屈尊
 			[vt]下去、沿...向下
 
@@ -819,6 +829,9 @@ inherit		[v]继承、遗传而得
 heritage	[n]遗产、传统、继承物
 heir		[n]继承人、后裔
 
+rough		[adj]粗糙的、粗略的
+crude		[adj]粗糙的、天然的、未加工的
+			[n]原油、天然的物质
 coarse		[adj]粗糙的、粗俗的、下等的
 rude		[adj]粗鲁的、无礼的、狂暴的
 
@@ -947,6 +960,7 @@ lace
 
 millstone
 landmark
+flagstone
 
 humorous
 harmonious
@@ -1290,9 +1304,19 @@ skepitical
 doubtful
 questionable
 
+evolve
+evolution
+evalution
+involve
+involved
+revolve
+elevate
+envelope
+
+
 
 rigorous
-vigorous
+vigorously
 
 transaction
 transient
@@ -1424,6 +1448,13 @@ toast
 roast
 boast
 
+
+
+sovereign
+rein 
+reign
+mastery
+
 sevote one's heart and soul to
 engage/employ oneself in
 
@@ -1457,6 +1488,7 @@ infinite
 definite
 indenfinite
 definitely
+initate
 
 insurance
 insure
@@ -1465,8 +1497,7 @@ ensure
 
 
 shame
-sham
-fake
+
 
 colonel
 colonial
@@ -1482,6 +1513,12 @@ hop
 
 seam
 beam
+
+grip
+grasp
+grab
+clasp
+grim
 
 skin
 skinny
@@ -1574,9 +1611,169 @@ alure
 explicit
 explicate
 
+simply
+simplicity
+imply
+
+
+invent
+inventory
+
+distinct
+distinctive
+distinguished
+distinguishable
+
+host
+hostility
+hostile
+hospitality
+hospitable
+
+stalk
+
+outlive
+withstand
+
+stakeholder
+stockholder
+
+
+terrify
+terror
+
+
+hero
+heroic
+heroine
+
+
+favor 
+favorite
+favorable
+
+rountine 
+rounte
+rountinely
+
+
+
+vivid
+vivdely
+
+
+levy
+revenue
+taxtic
+
+descend
+
+
+
+
+preclude
+conclude 
+include 
+exclude
+prose
+essay
+
+slip
+slipper
+slippery
+
+
+
+upright
+erect
+straight
+
+fellow  
+follow
+
+rough
+robust
+
+coarse
+
+issue
+tissue
+
+respect
+esteem
+
+steep
+stoop
+
+proclaim
+disclaim
+claim
+allege
+
+
+flaw
+law
+claw
+lawful
+legislation
+legislature
+legitimate
+lawsuit
+
+
+bloom
+blossom
+boom
+broom
+
+upset
+upsetting
+overturn
+in turn
+
+spouse
+女衬衫
+
+version
+dversion
+aversion
+
+
+rhythm
+melody
+melon
+lomon
+demon
+demand
+
+
+vocal
+职业、行业、使命
+
+
+sauce
+saucer
+
+exact
+extract
+accure
+precise
+
+
+asset
+assert
+arrest
+
+
+
+interact
+intact
+
 vague
 
+orphan
 
+flock
 
 
 Noting could be future from the truth = i cann't agree with you more.
