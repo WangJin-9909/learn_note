@@ -48,7 +48,7 @@ resign	[vt]辞职、放弃、委托
 pail	[n]捅、提桶
 hail	[n]冰雹、致敬、招呼
 		[v]下冰雹
-
+vicious	[adj]邪恶的、恶性的、堕落的
 vice 	[n]罪行、恶心、老虎钳
 sin		[n]罪恶、罪孽、犯罪
 
@@ -284,6 +284,7 @@ massacre  	[n]大屠杀、惨败、彻底破坏
 			[v]屠杀、彻底击败
 menace		[n]威胁、恐吓
 			[vi]恐吓、进行威胁、恐吓
+bully		[n/v]威胁、恐吓、仗势欺人者、横行霸道者
 
 gamble 		[n]赌博、冒险、打赌
 			[vi vt]赌博、孤注一掷、打赌
@@ -763,6 +764,7 @@ sight		[n]视野、视力、景象
 pant		[v]喘气、喘息、气喘喜喜的说
 gasp		[v]喘息、喘气、渴望
 wheeze		[v]喘息、喘息的说出
+pant		[n]喘息、渴望、气喘
 
 sector		[n]部门、扇形、扇区
 section		[n]部分、部门、截面、章节
@@ -880,6 +882,23 @@ identical	[adj]同一的、完全相同的
 attract		[v]吸引、有吸引力的
 attack		[n]攻击、抨击、疾病发作
 
+religion
+religious
+
+evidence
+testimony
+proof
+
+glory
+glorious
+
+neglect
+negligence
+negligible
+
+pile
+heat
+heap
 
 groan
 roar
@@ -902,8 +921,11 @@ imfirm
 feeble
 feebly
 
+troop
+tribe
 
 aroma
+fraud
 fragrance
 fragrant
 scent
@@ -1518,7 +1540,11 @@ grip
 grasp
 grab
 clasp
+
+tough
 grim
+rigid
+stern
 
 skin
 skinny
@@ -1543,6 +1569,8 @@ indecisive
 lame
 cripple
 limp
+limb
+lamp
 
 insist
 persist
@@ -1682,6 +1710,8 @@ slip
 slipper
 slippery
 
+greif
+grieve
 
 
 upright
@@ -1720,6 +1750,14 @@ legislature
 legitimate
 lawsuit
 
+concrete
+concentrate
+
+comprehensive
+comprehension
+
+brace 
+rack
 
 bloom
 blossom
@@ -1748,23 +1786,37 @@ demand
 
 
 vocal
-职业、行业、使命
+vocation
+
+spine
+ridge
 
 
 sauce
 saucer
 
+excerpt
 exact
 extract
 accure
 precise
 
+zeal
+zinc
 
 asset
 assert
 arrest
 
+dedicate
+奉献、致力
 
+pant
+pants
+
+retrospect
+recall
+retrospective
 
 interact
 intact
@@ -1774,9 +1826,68 @@ vague
 orphan
 
 flock
+swarm
 
+deamp
+swamp
+
+
+quote
+quota
+
+equally
+equate
+equality
+equivalent
+
+feasible  
+edible
+
+warfare
+社会福利
+
+chase
+pursuit
+
+
+survive
+survival
+revive
+revival
+
+mud
+mug
+
+
+
+gigantic
+bulk
+huge
+big
+hugely
+
+
+
+golf
+gulf
+
+
+
+rouse
+wake
+
+
+fabricate
+编制。。。
 
 Noting could be future from the truth = i cann't agree with you more.
+
+
+
+
+
+
+
 
 
 
