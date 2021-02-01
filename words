@@ -135,7 +135,8 @@ hatch		[n]笼、小屋
 rib			[n]肋骨、肋状物
 rob			[v]抢劫、掠夺、敲诈
 rot			[v]腐烂、衰败、腐败
-rotten		[ajd]腐烂的、堕落的、恶臭的
+rotten		[adj]腐烂的、堕落的、恶臭的
+corrupt		[adj]腐败的、贪污的
 robber		[n]强盗、盗贼
 robbery		[n]抢劫、盗窃
 rub			[n]擦、摩擦
@@ -285,6 +286,8 @@ massacre  	[n]大屠杀、惨败、彻底破坏
 menace		[n]威胁、恐吓
 			[vi]恐吓、进行威胁、恐吓
 bully		[n/v]威胁、恐吓、仗势欺人者、横行霸道者
+intimidate	[v]胁迫、威胁、恐吓
+intimate	[adj]亲密的
 
 gamble 		[n]赌博、冒险、打赌
 			[vi vt]赌博、孤注一掷、打赌
@@ -533,6 +536,7 @@ reputation	[n]名人、名声、声望
 fame		[n]名声、名望、传说
 fate		[n]命运、注定
 
+contract	[n]合同、契约、婚约
 pact		[n]协定、公约、条约
 compact		[n]合同、契约、紧凑的、坚实的
 compatible	[adj]兼容的、能共处的
@@ -670,6 +674,7 @@ invite		[vt]邀请、招待、招致
 invent		[vt]发明、创造、虚构
 inevitable	[adj]必然的、不可避免的
 
+commitment	[n]承诺、投入
 committee	[n]委员会
 commit		[vt]犯罪、把...交托给、指派
 commerce	[n]贸易、商业、商务	
@@ -1453,6 +1458,8 @@ replacment
 substite
 substitution
 
+rope
+gown
 
 preserve
 persevere
@@ -1470,7 +1477,13 @@ toast
 roast
 boast
 
+ricail
+ethnical
+ethnic
 
+trivial
+triviality
+trivialize
 
 sovereign
 rein 
@@ -1490,7 +1503,10 @@ propel
 strike
 striking
 
-
+wretched
+wretch
+miser
+miserable
 
 
 urban
@@ -1545,6 +1561,20 @@ tough
 grim
 rigid
 stern
+sternum
+sternuous
+stiff
+harsh
+
+creep
+discreet
+
+hail
+sparkle
+sprinkle
+
+siege
+besiege
 
 skin
 skinny
@@ -1735,6 +1765,8 @@ esteem
 steep
 stoop
 
+reclaim
+exclaim
 proclaim
 disclaim
 claim
@@ -1770,7 +1802,10 @@ overturn
 in turn
 
 spouse
-女衬衫
+blouse
+
+crab
+curb
 
 version
 dversion
@@ -1791,6 +1826,8 @@ vocation
 spine
 ridge
 
+latent
+potential
 
 sauce
 saucer
@@ -1848,7 +1885,10 @@ warfare
 
 chase
 pursuit
+pursue
 
+dizzy
+dazzy
 
 survive
 survival
@@ -1858,24 +1898,353 @@ revival
 mud
 mug
 
-
+sunrise
+sunset
+sundown
 
 gigantic
-bulk
+bulk  bulb
 huge
 big
 hugely
+enormous
+immense
+
+overtime
+pasttime
+
+flame
+flare
+
+disaster
+catastrophe
+
+magnify
+magnificent
+significance
+significant
+
+grand
+
+slap
+clap
+
+sew
+sow
+dew
+
+wit
+witness
 
 
+narrative
+tale
+
+
+plunge
+plague
+
+
+
+
+grind
+
+rage 
+outrage
+fury
+
+punch
+punish
+puncher
+
+terror
+terrific
+
+peculiar 
+specific
+special
+particular
 
 golf
 gulf
 
+peel
+peep
+jeer
+heel
+heal
+peer
 
+remind
+reminder
+remain
+remainder
+remnant
+remain
+
+oath
+pledge
+pled
+vow
+
+roar
+uproar
+howl
+boar
+soar
+bark
+
+pine
+pint
+
+junjle
+pine
+
+prior
+superior
+superiority
+priority
+
+sway
+swing
+swan
+swap
+flap
+
+apologize
+forgive
+
+convict
+convince
+
+density
+intensity
+tensor
+tension
+tense
+
+offensive
+offend
+offense
+offence
+
+intellectual
+intellect
+intelligence
+intelligible
+
+prosecute
+persecute
+sue
+
+blank
+blanket
+
+invert 
+convert
+avert
+advert
+revert
+subvert
+pervert
+divert
+diverse
+adverse
+reverse
+
+loss	
+lose
+losses
+lossy
+lossless
+
+
+enemy
+hostile
+hostage
+
+liable
+liability
+reliable
+
+maligant
+benign
+
+mutter
+murmur
+whisper
+
+shed
+shrewd
+
+keen
+keel
+
+
+garage 
+garbage
+tarsh
 
 rouse
 wake
 
+monarch
+monarchy
+sovereign
+
+terrority
+realm
+
+damp
+dump
+bump
+
+carch
+clash
+collide
+illusion
+
+military
+militant
+
+costume
+衣服、衣领
+
+taste  爱好
+
+seed
+feed
+weed
+
+contradiction
+contray
+
+
+refusal
+refute
+refuse
+reject
+
+sweat
+swear
+
+collar
+costome
+cellar
+
+oil
+soil
+
+
+conspiracy
+sly
+
+admire
+envy
+jealous
+navy
+
+pulse
+impulse
+
+prestige
+fame
+
+crash
+clash
+
+inquire
+enquire
+injury
+
+manipulate
+manipulation
+
+
+讽刺作品
+stair
+sarcastic
+牺牲、奉献
+
+
+lid
+lip
+
+blush
+pine
+
+slap
+slam
+slum
+slim
+
+intuition
+tuition
+instint
+institution
+
+tease
+lease
+cease
+
+tanker
+
+
+rumor
+tumor
+humor
+
+corridor
+corrupt
+
+prevalent
+
+aisle
+isle
+
+sew
+dew
+
+nod
+nap
+
+device
+apparatus
+
+sponsor
+赞助人、老主顾
+
+harness
+saddle、
+
+whip
+lash
+
+chap
+chop
+
+sketch
+骷髅、头骨
+
+persuade
+persuasion
+
+exempt
+exemption
+举例、例示、例证
+
+ceremony  仪式典礼
+墓地、公墓
+
+reliable
+reliability
+
+distinct
+distinction
+distinguish
+
+deprive
+deprivation
 
 fabricate
 编制。。。
