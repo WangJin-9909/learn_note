@@ -1,6 +1,3 @@
-take in charge of
-take charge of
-
 tablet  [n]药片、写字板
 pill	[n]药丸、子弹、口服避孕药
 		[v]把...制成药丸
@@ -395,6 +392,7 @@ descent 	[n]下降、血统、袭击
 ascend		[v]上升			
 descend		[vi]下降、下去、下来、遗传、屈尊
 			[vt]下去、沿...向下
+descendant	[n]后代、子孙、后裔
 
 sack  		[n]麻布袋、洗劫
 			[vt]解雇
@@ -887,102 +885,125 @@ identical	[adj]同一的、完全相同的
 attract		[v]吸引、有吸引力的
 attack		[n]攻击、抨击、疾病发作
 
-religion
-religious
+religion	[n]宗教、宗教信仰
+religious	[adj]宗教的、虔诚的、严谨的
 
-evidence
-testimony
-proof
+evidence	[n]证据、证明
+testimony	[n]证词、证言、证据
+proof		[n]证明、证据、验证
 
-glory
-glorious
+glory		[n]光荣、荣誉、赞颂
+glorious	[adj]光荣的、辉煌的、极好的
 
-neglect
-negligence
-negligible
+neglect		[v]忽视、忽略、疏忽
+negligence	[n]疏忽、忽视、粗心大意
+negligible	[adj]微不足道的、可以忽略的
 
-pile
-heat
-heap
+pile		[n]堆、大量、建筑群
+heat		[n]高温、压力、热度
+heap		[n]堆积、许多、累积
 
-groan
-roar
-moan
+groan		[v]呻吟、抱怨、发吱吱声
+roar		[v]咆哮、吼、喧闹
+moan		[v]抱怨、悲叹、呻吟声
 
-peculiar
-peculiar to 
+peculiar	[adj]特殊的、独特的、奇怪的、罕见的
+peculiar to ...的特点子啊与
 
-gulf
-harbor
+gulf		[n]海湾、深渊
+harbor		[n]海港、避难所
+			[v]庇护、窝藏
 
-ham
-hum
+ham			[n]火腿
+hum			[v]哼哼声、嗡嗡声
 
-marked
-remarkable
-conspicuous
+marked		[adj]显著的、有记号的
+remarkable	[adj]卓越的、非凡的、值得注意的
+conspicuous [adj]显著的、显而易见的
 
-imfirm
-feeble
-feebly
+imfirm		[adj]衰弱的、意志不坚固的、薄弱的
+feeble		[adj]微弱的、无力的
+feebly		[adj]无力的、微弱的
 
-troop
-tribe
+troop		[n]军队、组、群
+tribe		[n]部落、族、宗教
 
-aroma
-fraud
-fragrance
-fragrant
-scent
+aroma		[n]芳香
+fraud		[n]骗子、欺骗、诡计
+fragrance	[n]香味、芬香
+fragrant	[adj]芬香的、愉快的
+scent		[n] 气味；嗅觉；痕迹；察觉能力
+			[vt] 闻到；发觉；使充满…的气味；循着遗臭追踪
+			[vi] 发出…的气味；有…的迹象；嗅着气味追赶
 
-grease
-lubricate
-bribe
+grease		[n]油脂、润滑油、贿赂
+lubricate	[v]润滑、涂油、起润滑作用
+bribe		[v] 向……行贿；诱哄（尤指小孩）
+			[n] 贿赂；（尤指用来哄小孩做事的）好处
 
-recipe
-recipt 
-radiant
+recipe		[n]食谱、烹饪法、处方、秘诀
+receipt 	[n]收据、收到、收入
+radiant		[adj]辐射的、容光焕发地
 
-combat
-fright
+combat		[n]战斗、斗争、争论
+			[v]与...战斗
+fright		[n] 惊吓；惊骇
+			[vt] 使惊恐
 
-despise
-contempt
-scorn
-scout
-
-
-temptation
-tempt
-
-rational
-radical
-
-voyage
-sail
-
-bizarre
-odd
-queer
-exotic
-
-disspate
-dismass
-
-solid
-solitary
-
-consistent
-unanimous
-
-orchestra
-orchard
+despise		[vt]轻视、鄙视
+contempt	[n]轻视、蔑视、耻辱
+scorn		[n]轻蔑、嘲笑、藐视的对象
+scout		[n]搜索、侦察、侦查员
 
 
-disgrace
-disgraceful
-grace
-lace
+temptation	[n]诱惑、引诱
+tempt		[vt]诱惑、引诱、引起
+
+rational	[adj]合理的、理性的
+			[n]有理数
+radical		[adj]激进的、根本的、彻底的
+			[n]基础、激进分子
+
+voyage		[n] 航行；航程；旅行记
+			[vi] 航行；航海
+			[vt] 飞过；渡过
+sail		[vi] 航行；启航，开船
+			[n] 帆，篷；航行
+			[vt] 航行
+
+bizarre		[adj] 奇异的（指态度，容貌，款式等）
+odd			[adj] 奇数的；古怪的；剩余的；临时的；零散的
+			[n] 奇数；怪人；奇特的事物
+queer		[adj] 奇怪的，异常的；男同性恋的；不舒服的
+			[n] <非正式><冒犯>同性恋者；怪人；伪造的货币
+			[v] 破坏……的计划，搞糟；使陷于不利地位
+exotic		[adj] 异国的；外来的；异国情调的
+
+disspate	[vt] 浪费；使…消散
+			[vi] 驱散；放荡
+dismass		[vt] 解散；解雇；开除；让...离开；不予理会、不予考虑
+			[vi] 解散
+
+solid		[adj] 固体的；可靠的；立体的；结实的；一致的
+			[n]   固体；立方体
+solitary	[adj] 孤独的；独居的
+			[n] 独居者；隐士
+
+consistent	[adj] 始终如一的，一致的；坚持的
+unanimous	[adj] 全体一致的；意见一致的；无异议的
+
+orchestra	[n] 管弦乐队；乐队演奏处
+orchard		[n] 果园；果树林
+
+
+disgrace	[n] 耻辱；丢脸的人或事；失宠
+			[vt] 使……失宠；给……丢脸；使……蒙受耻辱；贬黜
+disgraceful [adj] 不名誉的，可耻的
+grace		[n] 优雅；恩惠；魅力；慈悲
+			[vt] 使优美
+lace		[n] 花边；鞋带；饰带；少量烈酒
+			[vt] 饰以花边；结带子
+			[vi] 系带子
 
 
 millstone
@@ -1130,6 +1151,7 @@ hunt
 hint
 hunter
 
+
 hub
 cab
 canient
@@ -1178,7 +1200,9 @@ desolate
 
 inset
 insect
-intact
+intact		[adj]完整无缺的、未经触动的
+interact
+
 
 spouse
 spoose
@@ -1855,8 +1879,7 @@ retrospect
 recall
 retrospective
 
-interact
-intact
+
 
 vague
 
@@ -1866,7 +1889,8 @@ flock
 swarm
 
 deamp
-swamp
+swamp		[v]淹没
+			[n]沼泽、湿地
 
 
 quote
@@ -2243,11 +2267,38 @@ distinct
 distinction
 distinguish
 
-deprive
-deprivation
+deprive			[v]剥夺、使丧失
+deprivation		[n]剥夺、免职、匮乏、丧失
 
 fabricate
 编制。。。
+
+
+
+doom	【v】  注定、判决
+		【n】毁灭、厄运、死亡
+		
+deem	【v】认为、视作
+dome	【n】圆屋顶、成圆顶状
+
+vowel	[n]元音、母音
+vow		[v]发誓
+towel	[n]毛巾
+bowel	[n]肠、内部最深处
+
+resolution	[n]分辨、解析率
+resolve		[v]决心要、解决
+			[n]决心
+			
+			
+extreme		[adv]非常的、极其的、极端的
+		
+
+
+energetic	[adj]精力充沛的、有活力的
+
+
+
 
 Noting could be future from the truth = i cann't agree with you more.
 
