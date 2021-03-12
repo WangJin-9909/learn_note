@@ -120,6 +120,7 @@ slum		[n]贫民窑、贫民区
 
 plunge		[v]骤降、跳入
 plouge		[vt]哞、耕地
+plague
 
 breeze		[n]微风、轻而易举的事情
 mild		[adj]温和的、轻微的
@@ -141,7 +142,10 @@ rubber		[n]橡胶、橡皮、合成橡胶
 erosion		[n]腐蚀、侵蚀
 stale		[adj]不新鲜的、陈腐的
 
-
+nick		[n] <英，俚>监狱，警察局；小裂口，划痕，划伤；别名，绰号；壁球场或网球场地面与墙壁的连接处
+			[vt] 在……上刻痕，使有缺口，划伤；
+nackname	[n] 绰号；昵称
+			[vt] 给……取绰号；叫错名字
 naked		[adj]裸体的、无装饰的、无证据的
 bald		[adj]光秃秃的、光秃的、无修饰的
 bare		[adj]空的、赤裸的、无遮蔽的
@@ -183,12 +187,6 @@ trash		[n]垃圾、废物
 tramp		[v]踩、踏、重步行走
 
 
-sham		[n]假装、骗子、赝品
-fake		[n]赝品
-shame		[vt]使丢脸、使蒙羞
-			[n]丢脸
-shy			[adj]害羞的、畏缩的、胆怯的
-blush		[vi]脸红、感到惭愧
 
 port		[n]港口
 portion		[n]部分、一份、份额
@@ -250,7 +248,7 @@ through		断开、洞穿、穿行、越过
 agitate 	[vt]摇动、骚动、使...激动
 imitate		[vt]模仿、仿效、仿造、仿制
 
-fracial 
+farcical 	[adj] 滑稽的；闹剧的；引人发笑的
 absurd 		[adj]荒谬的、可笑的
 			[n]荒诞、荒诞作
 ridiculous	[adj]荒谬的、可笑的
@@ -290,8 +288,7 @@ gamble 		[n]赌博、冒险、打赌
 			[vi vt]赌博、孤注一掷、打赌
 bet			[n]打赌、打赌
 
-humble 		[adj]谦逊的、简陋的、低下的、不大的
-humiliate	[vt]羞辱、使...丢脸
+
 
 radiant 	[adj]辐射的、容光焕发的
 radiate		[vt]辐射的、传播的、流露的、发射的、广播
@@ -492,10 +489,14 @@ neutral		[adj]中立的、非彩色的、中性的
 glow		[v]放光、发热
 grow		[v]发展、成长
 
+reproach	[n] 责备；耻辱
+			[vt] 责备；申斥
 blame 		[v]责备、归咎于
 			[n]责任、责备、过失
 scold		[v]责骂、叱责
-
+soak		[vt] 吸收，吸入；沉浸在（工作或学习中）；使……上下湿透
+			[vi] 浸泡；渗透
+			[n] 浸；湿透；大雨
 scar		[n]伤痕、精神创伤、损伤痕迹
 soar		[v]翱翔、骤升
 
@@ -717,6 +718,8 @@ predict		[v]预报、预言、预知
 prophecy	[v]预言
 prophet		[n]先知、预言者、提倡者
 precast		[v]预制的
+forecast	[n] （天气、财经等的）预测，预报；预想
+			[v] 预报，预测；预示；预言；进行预报，作预测
 
 reply		[v]回答、回应、回击
 relay		[v]重放、重现、重演
@@ -995,7 +998,15 @@ unanimous	[adj] 全体一致的；意见一致的；无异议的
 orchestra	[n] 管弦乐队；乐队演奏处
 orchard		[n] 果园；果树林
 
+sham		[n]假装、骗子、赝品
+fake		[n]赝品
+shame		[vt]使丢脸、使蒙羞
+			[n]丢脸
+shy			[adj]害羞的、畏缩的、胆怯的
+blush		[vi]脸红、感到惭愧
 
+humble 		[adj]谦逊的、简陋的、低下的、不大的
+humiliate	[vt]羞辱、使...丢脸
 disgrace	[n] 耻辱；丢脸的人或事；失宠
 			[vt] 使……失宠；给……丢脸；使……蒙受耻辱；贬黜
 disgraceful [adj] 不名誉的，可耻的
@@ -1006,173 +1017,232 @@ lace		[n] 花边；鞋带；饰带；少量烈酒
 			[vi] 系带子
 
 
-millstone
-landmark
-flagstone
+millstone	[n] 磨石；重担
+landmark	[n] [航]陆标；地标；界标；里程碑；纪念碑；地界标；划时代的事；特征
+			[adj] 有重大意义或影响的
+flagstone	[n]石板
 
-humorous
-harmonious
+humorous	[adj] 诙谐的，幽默的；滑稽的，可笑的
+harmonious	[adj] 和谐的，和睦的；协调的；悦耳的
 
-symposium
-seminar
+symposium	[n] 讨论会，座谈会；专题论文集；酒宴，宴会
+seminar		[n] 讨论会，研讨班
 
-sentiment 
-mood
+sentiment 	[n] 感情，情绪；情操；观点；多愁善感
+mood		[n] 情绪，语气；心境；气氛
 
-quality
-quanity
-quanify
-
-no wonder
-let alone
-
-dry
-drought
-droughty
-
-burst
-brust
-at stake
-at risk
-
-inconclusive
-in conslusion
-
-surgeon
-surgery
-physician
-
-charter
-chapter
-character
-
-in a sense 
-to some extent
-
-break into 
-burst into
-
-propose
-proposition
-
-counsel
-council
-
-wool
-cotton
-
-spectacle
-specate
-
-reception
-receipt
-
-verge
-vauge
-
-compromise
-comprise
-
-statistic 
-statistical
-
-civilizztion
-civil
-civilian
-civility
-
-apply
-application
-applicance
-
-partical
-particle
-particulate
-partial
-partiality
+quality		[n] 质量，[统计] 品质；特性；才能
+			[adj] 优质的；高品质的；
+quantity	[n] 量，数量；大量；总量
 
 
-efficient
-efficiency
-efficacy
-efficiently
+no wonder	难怪
+let alone	更不必说、何况
 
-present
-absence
-presence
+dry			[adj] 干的；口渴的；枯燥无味的；禁酒的
+			[vt] 把…弄干
+			[vi] 变干
+			[n] 干涸	
+drought		[n] 干旱；缺乏
+droughty	[adj] 干旱的；干燥的	
 
+burst		[v] 爆炸；戳破；爆裂；（器官或血管）爆裂；装满；充满感情；突然爆发（某种感情）；爆发出；冲开；闯；分页，断纸
+			[n] 爆炸；猝发；迸发；冲刺；一阵短促的射击
 
-flame
-flare
-blame
-fuel
-ful
+at stake	危如累卵；处于危险中；在紧要关头
+at risk		处于危险中
 
-polite
-polit
+inconclusive[adj] 不确定的；非决定性的；无结果的
+in conslusion 总之；最后
 
-weird
-wicked
+surgeon		[n] 外科医生
+surgery		[n] 外科；外科手术；手术室；诊疗室
+physician	[n] 医师，内科医师；抚慰者
+
+charter		[n] 宪章；执照；特许状；（法律或政策的）漏洞；（飞机、船等的）租用
+			[v] 包租；发给特许执照
+			[adj] 包租的
+chapter		[n] 章，回；（俱乐部、协会等的）分会；人生或历史上的重要时期
+			[vt] 把…分成章节
+character	[n] 性格，品质；特性；角色；[计] 字符
+			[vt] 印，刻；使具有特征
 
 
 
-plenty
-plentiful
+propose		[vt] 建议；打算，计划；求婚
+			[vi] 建议；求婚；打算
+proposition	[n] 命题；提议；主题；议题
+			[vt] 向……提议；向……求欢
 
-resemble
-assemble
+counsel		[n] 法律顾问；忠告；商议；讨论；决策
+			[vt] 建议；劝告
+			[vi] 商讨；提出忠告
+council		[n] 委员会；会议；理事会；地方议会；顾问班子
 
-progressive
-progress
+wool		[n] 羊毛；毛线；绒线；毛织品；毛料衣物
+cotton		[n] 棉花；棉布；棉线
+			[vi] 一致；理解；和谐；亲近
+			[adj] 棉的；棉制的
 
-weed
-reed
-weep
-feed
+spectacle	[n] 景象；场面；奇观；壮观；盛大的演出；（复）眼镜
+spectate	[vi] 出席观看
 
-motion
-mention
+reception	[n] 接待；接收；招待会；感受；反应
+receipt		[n] 收到；收据；收入
+			[vt] 收到
+verse		[n] 诗，诗篇；韵文；诗节
+			[vi] 作诗
+			[vt] 使熟练，使精通
+verge		[n] 边缘；绿地；极限；山墙突瓦；权杖（作为职位标志）
+			[v] 濒临，接近；趋向；处在边缘
+vague		[adj] 模糊的；含糊的；不明确的；暧昧的
 
-lib
-lid
+compromise	[n] 妥协，和解；妥协（或折中）方案；达成妥协
+			[v] 妥协，折中；违背（原则），达不到（标准）
+comprise	[vt] 包含；由…组成
 
-jury
-injure
-injury
+statistic 	[n] 统计资料；统计学；（一项）统计数据；统计量
+			[adj] 统计的，统计学的
+statistical	[adj] 统计的；统计学的
 
-apparent
-appear
-manifest
-manifestation
-appeal
+civiliztion	[n] 文明；文化
+civil		[adj] 公民的；民间的；文职的；有礼貌的；根据民法的
+civilian	[n] 平民，百姓
+			[adj] 民用的，百姓的，平民的
+civility	[n] 礼貌；礼仪；端庄
+
+apply		[vt] 申请；涂，敷；应用
+			[vi] 申请；涂，敷；适用；请求
+application	[n] 应用；申请；应用程序；敷用；（对事物、学习等）投入
+applicance	[n] 器具；器械；装置；应用
+
+partical	[n] 器具；器械；装置；应用
+particle	[n] 颗粒；[物] 质点；极小量；小品词
+particulate	[adj] 微粒的
+			[n] 微粒，微粒状物质
+partial		[adj] 局部的；偏爱的；不公平的
+partiality	[n] 偏心；偏袒；偏爱；癖好
 
 
-hunt
-hint
-hunter
+efficient	[adj] 有效率的；有能力的；生效的
+efficiency	[n] 效率；效能；功效
+efficacy	[n] 功效，效力
+efficiently	[adv] 有效地；效率高地
+
+present		[adj] 现在的；出席的；（事物）存在的；正在考虑的；现在时（态）的
+			[n] 礼物；现在，目前；（动词）现在式；（举枪的）瞄准
+			[v] 颁发；赠送；提出；展现；使发生；描述；出现；主持（节目）；
+absence		[n] 没有；缺乏；缺席；不注意
+presence	[n] 存在；出席；参加；风度；仪态
+
+inflame		[vt] 激怒；使燃烧；使发炎
+			[vi] 燃烧；发炎；激动	
+flame		[n] 火焰；热情；光辉
+			[v] 焚烧；泛红
+flare		[vt] 使闪耀；使张开；用发光信号发出；使外倾
+			[vi] 闪耀，闪光；燃烧；突然发怒
+			[n] 加剧，恶化；底部展开；
+blame		[vt] 责备；归咎于
+			[n] 责备；责任；过失
+fuel		[n] 燃料；刺激因素；（为身体提供能量的）食物
+			[vt] 给……提供燃料；刺激，煽动；推动
+			[vi] 得到燃料
+
+polite		[adj] 有礼貌的，客气的；文雅的；上流的；优雅的
+polit		[abbr] 政治
+
+weird		[adj] 怪异的；不可思议的；超自然的
+wicked		[adj] 邪恶的；恶劣的；不道德的；顽皮的
+
+plenty		[n] 丰富，大量；充足
+			[adj] 足够的，很多的
+			[adv] 足够
+			[pron] 大量；充足；富裕
+plentiful	[adj] 丰富的；许多的；丰饶的；众多的
+
+resemble	[vt] 类似，像
+assemble	[vt] 集合，聚集；装配；收集
+			[vi] 集合，聚集
+
+progressive	[adj] 进步的；先进的
+			[n] 改革论者；进步分子
+progress	[n] 进步，发展；前进
+			[vi] 前进，进步；进行
+
+weed		[n] 野草；水草；（非正式）烟草；（非正式）大麻烟；（非正式）体弱的人；（非正式）瘦弱的马
+			[v] 除草；剔除
+reed		[n] [作物] 芦苇；簧片；牧笛；不可依靠的人
+			[vt] 用芦苇盖；用芦苇装饰
+weep		[v] 哭泣，流泪；哭着说；哀悼；渗出（液体）
+			[n] 哭泣，落泪
+feed		[v] 喂养；进食；为……提供充足的食物；施肥；
+			[n] 饲料；饲养
+
+motion		[n] 动作；移动；手势；请求；意向；议案
+			[vi] 运动；打手势
+			[vt] 运动；向…打手势
+mention		[vt] 提到，谈到；提及，论及；说起
+			[n] 提及，说起
 
 
-hub
-cab
-canient
-cabin
+lid			[n] 盖子；眼睑；限制
+			[vt] 给…盖盖子
 
-crafr
-draft
+jury		[n] [法] 陪审团；评判委员会
+			[adj] 应急的
+injure		[vt] 伤害，损害
+injury		[n] 伤害，损害；受伤处
 
-ship
-lash
+apparent	[adj] 显然的；表面上的
+appear		[v] 出现；显得；似乎
+			[vi] 出庭；登场
+manifest	[v]表明，清楚显示（尤指情感、态度或品质）；
+			[adj] 显然的，明显的；显现出的
+			[n] 载货单，货单；旅客名单；货运列车编组清单
+			[adv] 明显地
+manifestation	[n] 表现；显示；示威运动
+appeal		[n] 呼吁，恳求；上诉，申诉；吸引力，感染力，魅力；启发，打动
+			[v] 呼吁，恳求；上诉，申诉，诉请裁决；
 
-coinage
-coincidence
-coincide
+cue			[n] 提示，暗示；线索
+			[vt] 给…暗示		
+hunt		[v] 打猎；搜索；追捕；
+hint		[n] 搜寻；打猎；（英国）猎狐活动；
+hunter		[n] 猎人；猎犬；搜寻者
 
-satellite
-settle
-settlement
+hub			[n] 中心；毂；木片
+cab			[n] 驾驶室；出租汽车；出租马车
+cabinet		[n] 内阁；橱柜；展览艺术品的小陈列室；外壳
+			[adj] 内阁的；私下的，秘密的
+cabin		[n] 小屋；客舱；船舱
+			[vt] 把…关在小屋里
+			[vi] 住在小屋里
+
+craft		[n] 工艺；手艺；太空船
+			[vt] 精巧地制作
+draft		[n] 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流
+			[vt] 起草；制定；征募
+			[vi] 拟稿；绘样；作草图
+
+ship		[n] 船，舰；三（或多）桅帆船；艇（尤指赛艇）；宇宙飞船；飞机
+			[v] （用船、飞机、卡车）运送；遣送（某人）；
+whip		[n] 鞭子；鞭策者；纪律委员；投票指示；			
+lash		[vt] 鞭打；冲击；摆动；扎捆；煽动；讽刺
+			[vi] 鞭打；猛击；急速甩动
+			[n] 鞭打；睫毛；鞭子；责骂；讽刺
+
+coinage		[n] 造币
+coincidence	[n] 巧合；一致；同时发生
+coincide	[vi] 一致，符合；同时发生
+
+satellite	[n] 卫星；人造卫星；卫星国家
+			[adj] 卫星的
+settle		[vi] 解决；定居；沉淀；下陷
+			[vt] 解决；安排；使…定居
+settlement	[n] 解决，处理；[会计] 结算；沉降；殖民
 
 conperation
-collaboration
+collaboration[n] 合作；勾结；通敌
 collaborate
 
 theory
@@ -1212,6 +1282,7 @@ bounce
 
 frown
 wrinkle
+twinkle
 
 sanction
 transaction
@@ -1266,6 +1337,8 @@ vain
 futile
 fertile
 
+recede
+perceive
 
 rash
 rush
@@ -1279,6 +1352,8 @@ symptom
 in trouble
 at stake
 
+scatter
+scattered
 
 lounge
 couch
@@ -1364,10 +1439,12 @@ revolve
 elevate
 envelope
 
-
+welfare
+warfare
 
 rigorous
 vigorously
+vigorous
 
 transaction
 transient
@@ -1428,6 +1505,7 @@ prerequisite
 exquisitely
 exquisiteness
 
+lord
 herd
 shepherd
 
@@ -1558,7 +1636,14 @@ assure
 ensure
 
 
-shame
+empire
+expire
+
+nothing more than
+
+
+
+
 
 
 colonel
@@ -1575,6 +1660,13 @@ hop
 
 seam
 beam
+
+squeeze
+sneeze
+
+stragger
+hesitate
+
 
 grip
 grasp
@@ -1625,6 +1717,7 @@ cripple
 limp
 limb
 lamp
+stumble
 
 insist
 persist
@@ -1670,10 +1763,23 @@ require
 inquire
 acquire
 
+packet
+pocket
 
+
+credential
+cordial
 
 imperfect
 defect
+
+hinge
+hinder
+
+
+
+sprout
+bud
 
 
 approve
@@ -1697,6 +1803,16 @@ simply
 simplicity
 imply
 
+extinct 
+die out
+
+foss
+alarmist
+
+hence
+hedge
+
+
 
 invent
 inventory
@@ -1709,6 +1825,7 @@ distinguishable
 host
 hostility
 hostile
+hospital
 hospitality
 hospitable
 
@@ -1738,6 +1855,7 @@ rountine
 rounte
 rountinely
 
+invest
 
 
 vivid
@@ -1749,7 +1867,13 @@ revenue
 taxtic
 
 descend
+descendant
+descent
+ascend
+offspring
+posterity
 
+repertoire
 
 
 
@@ -1760,7 +1884,12 @@ exclude
 prose
 essay
 
+farcical
+absurd
+
+
 slip
+slop
 slipper
 slippery
 
@@ -1843,6 +1972,17 @@ lomon
 demon
 demand
 
+bond
+bone
+
+wedding
+
+
+activate
+
+
+tap
+tip
 
 vocal
 vocation
@@ -1939,6 +2079,7 @@ pasttime
 
 flame
 flare
+blaze
 
 disaster
 catastrophe
@@ -1965,8 +2106,8 @@ narrative
 tale
 
 
-plunge
-plague
+
+
 
 
 
@@ -2143,6 +2284,14 @@ weed
 contradiction
 contray
 
+dispense
+indispensable
+depend
+
+
+prospect
+inspect
+protest
 
 refusal
 refute
@@ -2166,13 +2315,16 @@ sly
 admire
 envy
 jealous
+jeans
 navy
+
 
 pulse
 impulse
 
 prestige
 fame
+tame
 
 crash
 clash
@@ -2190,10 +2342,15 @@ stair
 sarcastic
 牺牲、奉献
 
+mist
+moist
+fist
+
 
 lid
 lip
 
+flush
 blush
 pine
 
@@ -2243,6 +2400,13 @@ saddle、
 
 whip
 lash
+
+monument 
+momentum
+
+guilt
+guilty
+guild
 
 chap
 chop
@@ -2297,7 +2461,14 @@ extreme		[adv]非常的、极其的、极端的
 
 energetic	[adj]精力充沛的、有活力的
 
+in a sense 
+to some extent
 
+break into 
+burst into
+
+responsibility
+liability
 
 
 Noting could be future from the truth = i cann't agree with you more.
