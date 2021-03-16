@@ -97,7 +97,6 @@ radical		[adj]激进的、根本的、彻底的
 butcher		[n]屠夫、肉店、侩子手
 pamphlet	[n]小册子
 
-
 clap		[n]故障、拍手
 slap		[v]击掌、拍击
 
@@ -189,8 +188,6 @@ trash		[n]垃圾、废物
 			[vi]丢弃、修剪树枝
 tramp		[v]踩、踏、重步行走
 
-
-
 port		[n]港口
 portion		[n]部分、一份、份额
 
@@ -214,8 +211,6 @@ spy			[vt]侦察、发现、暗中发现
 spicy		[adj]辛辣的、香的、多香料的
 spacy		[adj] 广大的；宽大的
 
-
-
 shape		[n]形状、身材、具体化
 			[vt]形成、塑造、使形成
 aharp 		[adj]急剧的、锋利的、强烈的、刺耳的
@@ -238,7 +233,6 @@ inhibit		[vt]抑制、禁止
 exhibit		[v]展览
 prohibit	[v]阻止
 cohibit		[v]同居
-
 
 penalty 	[n]罚款、罚金、处罚
 punish		[vt]惩罚、眼里对待
@@ -273,7 +267,6 @@ cape		[n]披风、海角
 grape		[n]葡萄
 grade		[n]等级、年纪
 
-
 tile 		[n]瓦、瓷砖
 			[vt]铺瓦片、铺瓷砖
 tilt		[vi]倾斜、翘起、俯仰
@@ -293,8 +286,6 @@ intimate	[adj]亲密的
 gamble 		[n]赌博、冒险、打赌
 			[vi vt]赌博、孤注一掷、打赌
 bet			[n]打赌、打赌
-
-
 
 radiant 	[adj]辐射的、容光焕发的
 radiate		[vt]辐射的、传播的、流露的、发射的、广播
@@ -1995,174 +1986,242 @@ discard		[vt] 抛弃；放弃；丢弃
 
 jolly		[adj] 愉快的；欢乐的；宜人的
 			[adv] 很；非常
-			[vt] （口）用好话劝某人做…；（口）用好话使高兴
-			[vi] （口）开玩笑
-jelly
+			[vt] 用好话劝某人做…；（口）用好话使高兴
+			[vi] 开玩笑
+jelly		[n] 果冻；胶状物
+			[vi] 成胶状
+			[vt] 使结冻
 
-require
-inquire
-acquire
+require		[vt] 需要；要求；命令
+inquire		[vt] 询问；查究；问明
+			[vi] 询问；查究；询价
+acquire		[vt] 获得；取得；学到；捕获
 
-packet
-pocket
+packet		[n] 数据包，信息包；小包，小捆
+			[vt] 包装，打包
+pocket		[n] 口袋；钱；容器
+			[vt] 隐藏；忍受；将…放入衣袋
+			[vi] 形成袋或囊
+			[adj] 小型的，袖珍的；金钱上的
 
+credential	[n] 证书；凭据；国书
+cordial		[adj] 热情友好的；由衷的；兴奋的
+			[n] 甜果汁饮料；镇定药；兴奋剂；甜香酒
 
-credential
-cordial
+imperfect	[adj] 有缺点的；未完成的；半过去的；未完成时的
+			[n] 未完成体
+			[adv] 有瑕疵地；有缺点地
+defect		[n] 缺点，缺陷；不足之处
+			[vi] 变节；叛变
 
-imperfect
-defect
+hinge		[n] 铰链，折叶；关键，转折点；枢要，中枢
+			[v] 用铰链连接；依…为转移；
+hinder		[vi] 成为阻碍
+			[vt] 阻碍；打扰
+			[adj] 后面的
 
-hinge
-hinder
+sprout		[vi] 发芽；长芽
+			[vt] 使发芽；使萌芽
+			[n] 芽；萌芽；苗芽
+bud			[n] 芽，萌芽；蓓蕾
+			[vi] 发芽，萌芽
+			[vt] 使发芽
 
+approve		[vt] 批准；赞成；为…提供证据
+			[vi] 批准；赞成；满意
+improve		[vt] 改善，增进；提高……的价值
+			[vi] 增加；变得更好
+disprove	[vt] 反驳，证明…是虚假的
+approval	[n] 批准；认可；赞成
+disapprove	[vt] 不赞成；不同意
+			[vi] 不赞成；不喜欢
+improvement	[n] 改进，改善；提高
 
+need		[v] 必须，需要；（表示应该或不得不做）有必要
+			[n] 需要，必须； 特别需要，迫切要求；
+indeed		[adv] 的确；实在；真正地；甚至
+			
+luxury		[n] 奢侈，奢华；奢侈品；享受
+			[adj] 奢侈的
+lure		[n] 诱惑；饵；诱惑物
+			[vt] 诱惑；引诱；引怪
+alure		[n] 走廊；院廊；通道
 
-sprout
-bud
+explicit	[adj] 明确的；清楚的；直率的；详述的
+explicate	[vt] 说明，解释
 
+simply		[adv] 简单地；仅仅；简直；朴素地；坦白地
+simplicity	[n] 朴素；简易；天真；愚蠢
+imply		[vt] 意味；暗示；隐含
 
-approve
-improve
-disprove
-approlval
-disapprove
-improvement
+extinct 	[adj] 灭绝的，绝种的；熄灭的
+			[vt] 使熄灭
+die out		灭绝；消失
 
-need
-indeed
+foss		[n] 城河；壕坑
+alarmist	[adj] 危言耸听的，大惊小怪的
+			[n] 大惊小怪者，杞人忧天者
 
-luxury
-lure
-alure
+hence		[adv] 因此；今后
+hedge		[n] 树篱；防止损失的手段；模糊措辞；障碍
+			[v] 用树篱笆围住；避免作正面答复
 
-explicit
-explicate
+invent		[vt] 发明；创造；虚构
+inventory	[n] 存货，存货清单；详细目录；财产清册
+			[vt] 给……开列清单
 
-simply
-simplicity
-imply
+distinct	[adj] 明显的；独特的；清楚的；有区别的
+distinctive	[adj] 独特的，有特色的；与众不同的
+distinguished	[adj] 卓越的，著名的；高贵的，受尊重的
+				[v] 辨别；使有区别；看清，认出（
+distinguishable	[adj] 可区分的；隐约可辨的
 
-extinct 
-die out
+host		[n] [计] 主机；主人；主持人；许多
+			[vt] 主持；当主人招待
+			[vi] 群集；做主人
+hostility	[n] 敌意；战争行动
+hostile		[adj] 敌对的，敌方的；怀敌意的
+			[n] 敌对
+hospital	[n] 医院
+hospitality	[n] 好客；殷勤
+hospitable	[adj] 热情友好的；（环境）舒适的
 
-foss
-alarmist
+stalk		[n] （植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步
+			[vt] 追踪，潜近；高视阔步
+			[vi] 高视阔步地走；潜近，偷偷接近
 
-hence
-hedge
+outlive		[vt] 比…活得长；比…经久；经受住；渡过…而存在
+withstand	[vt] 抵挡；禁得起；反抗
+			[vi] 反抗
 
+stakeholder	[n] 利益相关者；赌金保管者
+stockholder	[n] 股东；股票持有人
 
+terrify		[vt] 恐吓；使恐怖；使害怕
+terror		[n] 恐怖；恐怖行动；恐怖时期；可怕的人
 
-invent
-inventory
+hero		[n] 英雄；男主角，男主人公
+heroic		[adj] 英雄的；英勇的；记叙英雄及其事迹的；夸张的
+			[n] 史诗；英勇行为
+heroine		[n] 女主角；女英雄；女杰出人物
 
-distinct
-distinctive
-distinguished
-distinguishable
+favor 		[v] 较喜欢；偏袒；有利于；（非正式）长得像；悉心照料
+			[n] 帮助；提拔；徽章；赞同；偏袒；同意性交
+favorite	[adj] （同类中）最受喜爱的
+			[n] 受喜爱的人（或事物）；
+favorable	[adj] 有利的；良好的；赞成的，赞许的；讨人喜欢的
 
-host
-hostility
-hostile
-hospital
-hospitality
-hospitable
+routine 	[n] 常规，惯例；生活乏味；（演出中的）一套动作；（计算机）例行程序
+			[adj] 常规的，例行的；平常的；乏味的
+			[v] 按惯例安排
+route		[n] 路线，航线；道路，公路；
+			[v] 按特定路线发送
+routinely	[adv] 例行公事地；老一套地
 
-stalk
+vivid		[adj] 生动的；鲜明的；鲜艳的
+vividly		[adv] 生动地；强烈地
 
-outlive
-withstand
+levy		[n] 征收；征兵，征税
+			[vt] 征收；征集；发动
+			[vi] 征税；征兵
+revenue		[n] 税收收入；财政收入；收益
+tactic		[n] 策略，战略
+			[adj] 按顺序的，依次排列的
 
-stakeholder
-stockholder
+descend		[vi] 下降；下去；下来；遗传；屈尊
+			[vt] 下去；沿…向下
+descendant	[n] 后裔，子孙；派生物；后继型产品
+			[adj] 下降的；祖传的
+descent		[n] 下降；血统；袭击
+			[vt] 除去…的气味；使…失去香味
+ascend		[vi] 上升；登高；追溯
+			[vt] 攀登，上升
+offspring	[n] 后代，子孙；产物
+posterity	[n] 子孙，后裔；后代
 
+repertoire	[n] 全部节目；计算机指令系统；
 
-terrify
-terror
+preclude	[vt] 排除；妨碍；阻止
+conclude 	[vt] 推断；决定，作结论；结束
+			[vi] 推断；断定；决定
+include 	[vt] 包含，包括
+exclude		[vt] 排除；排斥；拒绝接纳；逐出
+prose		[n] 散文；单调
+			[adj] 散文的；平凡的；乏味的
+			[vi] 写散文；乏味地讲话
+			[vt] 把…写成散文
+essay		[n] 散文；试图；随笔
+			[vt] 尝试；对…做试验
+farcical	[adj] 滑稽的；闹剧的；引人发笑的
+absurd		[adj] 荒谬的；可笑的
+			[n] 荒诞；荒诞作品
+slip		[vi]  滑动；滑倒；犯错；失足；减退
+			[vt]  使滑动；滑过；摆脱；塞入；闪开
+			[n]   滑，滑倒；片，纸片；错误；下跌；事故
+			[adj] 滑动的；有活结的；活络的
+slop		[v] 溢出；溅出；
+			[n] 泔脚水；淡而无味的半流质食物；
+slipper		[n] 拖鞋
+			[vt] 用拖鞋打
+slippery	[adj] 滑的；狡猾的；不稳定的
 
+grief		[n] 悲痛；忧伤；不幸
+grieve		[vt] 使悲伤，使苦恼
+			[vi] 悲痛，哀悼
 
-hero
-heroic
-heroine
+upright		[adj] 正直的，诚实的；垂直的，直立的；笔直的；合乎正道的
+			[n] 垂直；竖立
+erect		[adj] 竖立的，笔直的；因性刺激而勃起的；
+			[v]竖立；建造；创立；安装；勃起
 
+elect		[v] 选举；选择，决定（做某事）；
+			[n] 被选的人；上帝的选民；特权集体
+			[adj] 卓越的；
+straight	[adj] 直的；连续的；笔直的；正直的；整齐的；异性恋的
+			[adv] 直接地；不断地；立即；坦率地
+			[n] 直；直线；直男，直女，异性恋者
 
-favor 
-favorite
-favorable
+fellow  	[n]   男人，男孩，家伙；男朋友；同事，朋友；董事；
+			[adj] 同类的，同伴的，同事的，同道的
+follow		[vt] 跟随；遵循；追求；密切注意，注视；注意；倾听
+			[vi] 跟随；接着
+			[n] 跟随；追随
 
-rountine 
-rounte
-rountinely
+rough		[adj] 粗糙的；粗略的；粗野的；艰苦的；未经加工的
+			[vt]  使粗糙；粗暴对待；草拟
+			[n]   艰苦；高低不平的地面；未经加工的材料；粗糙的部分
+			[vi]  举止粗野
+			[adv] 粗糙地；粗略地；粗暴地
+robust		[adj] 强健的；健康的；粗野的；粗鲁的
+coarse		[adj] 粗糙的；粗俗的；下等的
 
-invest
+issue		[n]  问题；流出；期号；发行物
+			[vt] 发行，发布；发给；放出，排出
+			[vi] 发行；流出；造成……结果；传下
+tissue		[n] 组织；纸巾；薄纱；一套
+			[vt] 饰以薄纱；用化妆纸揩去
 
+respect		[n] 尊敬，尊重；方面；敬意
+			[vt] 尊敬，尊重；遵守
+esteem		[n] 尊重，敬重
+			[v] 尊敬，尊重；把......看作，认为；考虑；估价
 
-vivid
-vivdely
+steep		[adj] 陡峭的；不合理的；夸大的；急剧升降的
+			[vt] 泡；浸；使…充满
+			[vi] 泡；沉浸
+			[n] 峭壁；浸渍
+stoop		[vi] 弯腰；屈服；堕落
+			[n] 弯腰，屈背；屈服
+			[vt] 辱没，堕落；俯曲
 
-
-levy
-revenue
-taxtic
-
-descend
-descendant
-descent
-ascend
-offspring
-posterity
-
-repertoire
-
-
-
-preclude
-conclude 
-include 
-exclude
-prose
-essay
-
-farcical
-absurd
-
-
-slip
-slop
-slipper
-slippery
-
-greif
-grieve
-
-
-upright
-erect
-elect
-straight
-
-fellow  
-follow
-
-rough
-robust
-
-coarse
-
-issue
-tissue
-
-respect
-esteem
-
-steep
-stoop
-
-reclaim
-exclaim
-proclaim
-disclaim
+reclaim		[vt] 开拓；回收再利用；改造某人，使某人悔改
+			[vi] 抗议，喊叫
+			[n]  改造，感化；再生胶
+exclaim		[vi] 呼喊，惊叫；大声叫嚷
+			[vt] 大声说出
+proclaim	[vt] 宣告，公布；声明；表明；赞扬
+disclaim	[vt] 否认，拒绝；放弃，弃权；拒绝承认
+			[vi] 否认；放弃；弃权
 claim
 allege
 
